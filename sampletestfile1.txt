@@ -1,3 +1,1 @@
 this is my sample file 1
-
-git revert 1
